@@ -2621,18 +2621,6 @@ form.loading input[type="submit"] {
         display: block;
         width: auto; } }
 
-.sub-forum-stat__entry {
-  display: inline-block;
-  width: 49%; }
-  .sub-forum-stat__entry_post-title,
-  .sub-forum-stat__entry_post-author {
-    display: block;
-    width: 98%; }
-  .sub-forum-stat__entry_post-title {
-    padding: 5px 0; }
-  .sub-forum-stat__entry_post-author {
-    padding: 5px 10px 5px 0; }
-
 /* Forum topic */
 .forum-topic {
   border: solid 1px #dadada;

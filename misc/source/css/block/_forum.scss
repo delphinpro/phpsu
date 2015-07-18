@@ -72,24 +72,3 @@ $topic-icon-size: 30px;
         }
     }
 }
-
-.sub-forum-stat {
-    &__entry {
-        display: inline-block;
-        width: 49%;
-
-        &_post-title,
-        &_post-author {
-            display: block;
-            width: 98%;
-        }
-
-        &_post-title {
-            padding: 5px 0;
-        }
-
-        &_post-author {
-            padding: 5px 10px 5px 0;
-        }
-    }
-}
